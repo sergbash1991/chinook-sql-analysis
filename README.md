@@ -2,7 +2,7 @@
 
 This project analyzes which countries generate the **highest revenue per customer** and how they compare in terms of **total revenue** using the Chinook SQLite database.
 
-![Main Visualization](./Screenshot_5.jpg) <!-- Update with your actual image path -->
+![Main Visualization](./Screenshot_5.png) <!-- Update with your actual image path -->
 
 ---
 
